@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 # Summoner-Rift
-=======
+
 # TFG-Proyecto-Backend
->>>>>>> 0977714d00e9461ed65f4fc73e9129170770f37f
+
+Asegurate de tener los archivos TFG-Proyecto-Frontend, ahí podrás ver el manual de instalación y una carpeta que contiene scripts. 
